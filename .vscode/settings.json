@@ -2,9 +2,14 @@
 	"cSpell.words": [
 		"astype",
 		"Colab",
+		"dateutil",
 		"dotenv",
 		"Dtype",
 		"dtypes",
+		"iloc",
+		"isin",
+		"isna",
+		"isoparse",
 		"openai",
 		"resolutiondate"
 	]
