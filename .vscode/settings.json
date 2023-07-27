@@ -7,6 +7,7 @@
 		"Dtype",
 		"dtypes",
 		"iloc",
+		"ipynb",
 		"isin",
 		"isna",
 		"isoparse",
