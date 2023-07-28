@@ -6,9 +6,11 @@ The jupyter notebooks can be run in VS Code or Google Colab - and potentially an
 
 Secrets are stored need to be stored within a .env file with the following format
 
+```text
 SECRETS_HOST = "https://your-company.atlassian.net/"
 SECRETS_USERNAME = "<you@your-company.com.au>"
 SECRETS_PASSWORD = "ATATT........75"
+```
 
 For cloud based jira instances the username must be a email and the password is an api key. To generate an api key visit <https://id.atlassian.com/manage-profile/security/api-tokens>.
 
