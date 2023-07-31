@@ -1,5 +1,6 @@
 {
 	"cSpell.words": [
+		"altzone",
 		"astype",
 		"Colab",
 		"dateutil",
@@ -8,11 +9,15 @@
 		"dtypes",
 		"iloc",
 		"ipynb",
+		"isdst",
 		"isin",
 		"isna",
 		"isoparse",
 		"iterrows",
 		"openai",
-		"resolutiondate"
+		"pysqlite",
+		"resolutiondate",
+		"sqlalchemy",
+		"sqllite"
 	]
 }
