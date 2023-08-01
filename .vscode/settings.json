@@ -1,9 +1,12 @@
 {
 	"cSpell.words": [
 		"altzone",
+		"asdecimal",
 		"astype",
 		"Colab",
+		"colnames",
 		"dateutil",
+		"DECLTYPES",
 		"dotenv",
 		"Dtype",
 		"dtypes",
